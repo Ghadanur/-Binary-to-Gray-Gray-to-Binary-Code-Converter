@@ -1,4 +1,4 @@
-module b_g_b_tb;
+module tb_binary_gray;
     reg [3:0] in;
     wire [3:0] g_out;
     wire [3:0] s_out;
